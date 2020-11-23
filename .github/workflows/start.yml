@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0790_all_dsysIPFhgWAX.ozip
-  ROM_NAME: RealmemeUI
+  ROM_NAME: Realme-RMX2185
   PRODUCT_IMAGE: false
   OPPRODUCT_IMAGE: false
   WHOLE_VENDOR: false
